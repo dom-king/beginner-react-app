@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beginner-react-app/static/css/main.91fa4388.chunk.css",
+    "main.js": "/beginner-react-app/static/js/main.11b5b5da.chunk.js",
+    "main.js.map": "/beginner-react-app/static/js/main.11b5b5da.chunk.js.map",
+    "runtime-main.js": "/beginner-react-app/static/js/runtime-main.1f4dd263.js",
+    "runtime-main.js.map": "/beginner-react-app/static/js/runtime-main.1f4dd263.js.map",
+    "static/js/2.7aaef059.chunk.js": "/beginner-react-app/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/beginner-react-app/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/beginner-react-app/index.html",
+    "precache-manifest.4250618f1d9f1aba012da4724c548b9c.js": "/beginner-react-app/precache-manifest.4250618f1d9f1aba012da4724c548b9c.js",
+    "service-worker.js": "/beginner-react-app/service-worker.js",
+    "static/css/main.91fa4388.chunk.css.map": "/beginner-react-app/static/css/main.91fa4388.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/beginner-react-app/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f4dd263.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.91fa4388.chunk.css",
+    "static/js/main.11b5b5da.chunk.js"
+  ]
+}
